@@ -14,28 +14,23 @@
       "email": "hi@mail.com",
       "password": "$2a$10$S20oDnuC3bZu7ANPJgcqvusSCv0jc8P621OAQsKc1urH7HcrLLiCS",
       "id": 3
+    },
+    {
+      "email": "soe@gmail.com",
+      "password": "$2a$10$ZddB8IHLL/PxiwRNkfRBEu4dn2PUeTG8geppSaESImWg.pBszckFW",
+      "id": 4
     }
   ],
   "weather_history": [
     {
-      "date": "2023-6-14",
-      "name": "Mandalay",
-      "weather": "Partly cloudy",
-      "temp": 26.7,
-      "humidity": 70,
-      "wind_speed": 176,
-      "feels_like": 28.8,
+      "date": "2023-6-18",
+      "name": "Rome",
+      "weather": "Sunny",
+      "temp": 20,
+      "humidity": 73,
+      "wind_speed": 80,
+      "feels_like": 20,
       "id": 1
-    },
-    {
-      "date": "2023-6-14",
-      "name": "Yangon",
-      "weather": "Moderate rain",
-      "temp": 25,
-      "humidity": 100,
-      "wind_speed": 340,
-      "feels_like": 27,
-      "id": 2
     }
   ]
 }
