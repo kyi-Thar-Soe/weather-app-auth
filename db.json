@@ -21,16 +21,5 @@
       "id": 4
     }
   ],
-  "weather_history": [
-    {
-      "date": "2023-6-18",
-      "name": "Rome",
-      "weather": "Sunny",
-      "temp": 20,
-      "humidity": 73,
-      "wind_speed": 80,
-      "feels_like": 20,
-      "id": 1
-    }
-  ]
+  "weather_history": []
 }
